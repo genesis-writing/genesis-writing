@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Genesis!
-- 😎 I’m interested in docs-as-code systems and building better documentation experiences.
-- 🧠 I’m currently exploring the intersection of technical writing and AI agents.
-- 👊 I’m seeking collaboration on REST API documentation and other open-source projects.
-- 📫 If you'd like to chat or collaborate, please reach out to me on LinkedIn!
+- 😎 I'm a senior technical writer who builds docs-as-code systems.
+- 🧠 I run an AI-augmented documentation workflow with Claude Code and write about it on [my blog](https://genwritesdocs.com/blog/tags/artificial-intelligence).
+- 📚 My portfolio exists in both Docusaurus and MkDocs because I wanted to explore both. The MkDocs repo is archived.
+- 📫 To chat or collaborate, please reach out to me on LinkedIn!
 
 <!---
 genesis-writing/genesis-writing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
